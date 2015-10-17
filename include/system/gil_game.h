@@ -2,7 +2,7 @@
 #define GIL_GAME_H
 
 #include <gil_platform.h>
-class Game
+class GIL_API Game
 {
 public:
 	Game();
